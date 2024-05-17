@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(160, 160, 160);
+    text-align: center;
+}
+
+.inicial{
+    position: absolute;
+    top: 300px;
+    right: 280px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0);
+}
+
+.floresta{
+    position: absolute;
+    top: 300px;
+    right: 1300px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0);
+}
+
+.caverna {
+    position: absolute;
+    top: 300px;
+    right: 780px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0); 
+}
+
+.acampamento {
+    position: absolute;
+    top: 600px;
+    right: 1200px;
+    left: 200px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0); 
+}
+
+.laboratorio {
+    position: absolute;
+    top: 600px;
+    right: 300px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0); 
+}
+.laboratorio1 {
+    position: absolute;
+    top: 600px;
+    right: 750px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0); 
+}

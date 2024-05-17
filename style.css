@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(160, 160, 160);
+    text-align: center;
+}
+
+.personagens{
+    position: absolute;
+    top: 300px;
+    right: 280px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0);
+}
+
+.intens{
+    position: absolute;
+    top: 300px;
+    right: 1300px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0);
+}
+
+.mapa {
+    position: absolute;
+    top: 300px;
+    right: 800px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0); 
+}
+
+.autor {
+    position: absolute;
+    top: 600px;
+    right: 800px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0); 
+}

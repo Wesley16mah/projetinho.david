@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(160, 160, 160);
+    text-align: center;
+}
+
+.A{
+    position: absolute;
+    top: 150px;
+    right: 280px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0);
+}
+
+.B{
+    position: absolute;
+    top: 150px;
+    right: 1300px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0);
+}
+
+.C {
+    position: absolute;
+    top: 150px;
+    right: 780px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0); 
+}
+
+.D {
+    position: absolute;
+    top: 490px;
+    right: 790px;
+    left: 400px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0); 
+}
+
+.E {
+    position: absolute;
+    top: 490px;
+    right: 500px;
+    left: 1110px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0); 
+}
